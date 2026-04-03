@@ -22,4 +22,8 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ## 📊 Model Used
-- Logistic Regression  
+- Logistic Regression
+  
+## 📷 Demo
+
+![App Screenshot](app.png.png)
